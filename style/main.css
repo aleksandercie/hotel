@@ -23,6 +23,10 @@ p {
   color: #4D4D4D;
 }
 
+.wrapper {
+  overflow-x: hidden;
+}
+
 .intro {
   height: 100vh;
 }
