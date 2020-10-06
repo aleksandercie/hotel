@@ -53,10 +53,6 @@ p {
 .main-nav {
   background-color: #000;
   color: #fff;
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  z-index: 10;
 }
 
 .main-nav label, .main-nav #drop-nav {
